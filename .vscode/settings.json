@@ -1,5 +1,5 @@
 {
-    "python.pythonPath": "${workspaceFolder}/python.exe",
+    "python.pythonPath": "${workspaceFolder}/python",
     "python.testing.unittestArgs": [
         "-v",
         "-s",

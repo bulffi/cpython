@@ -10,7 +10,7 @@
             "name": "Cpython test",
             "type": "cppdbg",   
             "request": "launch",
-            "program": "${workspaceFolder}/python.exe",
+            "program": "${workspaceFolder}/python",
             "args": ["-m", "test", "-v", "${file}"],
             "stopAtEntry": false,
             "cwd": "${workspaceFolder}/Lib/test",
@@ -52,7 +52,7 @@
             "name": "python interpretter",
             "type": "cppdbg",   
             "request": "launch",
-            "program": "${workspaceFolder}/python.exe",
+            "program": "${workspaceFolder}/python",
             // change the second argument accordinly
             "args": [],
             "stopAtEntry": false,

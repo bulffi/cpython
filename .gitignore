@@ -30,7 +30,7 @@ __pycache__
 tags
 TAGS
 .vs/
-.vscode/
+# .vscode/
 gmon.out
 .coverage
 .mypy_cache/
@@ -124,3 +124,4 @@ Tools/ssl/win32
 # Ignore ./python binary on Unix but still look into ./Python/ directory.
 /python
 !/Python/
+.clangd
